@@ -54,4 +54,4 @@ Project Link: [https://github.com/simonusher/SwingPong](https://github.com/simon
 [license-shield]: https://img.shields.io/github/license/simonusher/SwingPong.svg?style=for-the-badge
 [license-url]: https://github.com/simonusher/SwingPong/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/simonusher
+[linkedin-url]: https://www.linkedin.com/in/szymon-wo%C5%BAniak-00505318a/
